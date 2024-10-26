@@ -1,6 +1,6 @@
 # LSPosed Framework
 
-[![Build](https://img.shields.io/github/actions/workflow/status/re-zero001/LSPosed/core.yml?branch=master&event=push&logo=github&label=Build)](https://github.com/re-zero001/LSPosed/actions/workflows/core.yml?query=event%3Apush+branch%3Amaster+is%3Acompleted) [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/LSPosed) [![Download](https://img.shields.io/github/v/release/LSPosed/LSPosed?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/re-zero001/LSPosed/releases/latest) [![Total](https://shields.io/github/downloads/LSPosed/LSPosed/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/LSPosed/LSPosed/releases)
+[![Build](https://img.shields.io/github/actions/workflow/status/re-zero001/LSPosed-Irena/core.yml?branch=master&event=push&logo=github&label=Build)](https://github.com/re-zero001/LSPosed-Irena/actions/workflows/core.yml?query=event%3Apush+branch%3Amaster+is%3Acompleted) [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/LSPosed) [![Download](https://img.shields.io/github/v/release/re-zero001/LSPosed-Irena?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/re-zero001/LSPosed-Irena/releases/latest) [![Total](https://shields.io/github/downloads/re-zero001/LSPosed-Irena/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/re-zero001/LSPosed-Irena/releases)
 
 ## Introduction 
 
